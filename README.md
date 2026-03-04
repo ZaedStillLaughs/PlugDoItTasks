@@ -1,5 +1,7 @@
 # PlugDoItTasks 🛠️
 
+# WARNING: THIS IS MY FIRST REPO AND MY FIRST APP IN PYTHON AND ITS IN PRE-RELEASE SO EXPECT BUGS!
+
 A Python-based utility For Usage Of Tasks/To-Do list
 
 ## 🚀 How to Run
