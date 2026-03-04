@@ -18,8 +18,8 @@ A Python-based utility for [Briefly describe what your task manager/emulator doe
    chmod +x PlugItDoTasks-Linux
    ./PlugItDoTasks-Linux
 
-   ## OR DOWNLOAD USING THE REALEASES LINK
-# PlugDoItTasks 🛠️
+   
+# PlugDoItTasks THE RELEASES LINK WAY! 🛠️
 
 A Python-based utility for [Briefly describe what your task manager/emulator does here].
 
